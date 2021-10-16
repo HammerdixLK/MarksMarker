@@ -48,8 +48,8 @@ class App extends React.Component {
   render() {
     let tabChoice = <div />;
 
-    
-     {
+    /*Uncomment below to render assignments*/
+    {
       tabChoice = (
         <List
           placeholder="Add Assignment..."
