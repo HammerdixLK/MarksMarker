@@ -74,7 +74,7 @@ class App extends React.Component {
           placeholder="Add Student..."
           currList={this.state.students}
           addFunction={this.addStudent}
-          title="Student Roster"
+          title="Student Nayanajith"
         />
       );
     }
@@ -95,7 +95,7 @@ class App extends React.Component {
       <div>
         <div className="Box Box--spacious f4">
           <div className="Box-header">
-            <h3 className="Box-title d-flex flex-justify-center">GradeBook</h3>
+            <h3 className="Box-title d-flex flex-justify-center">MarksMarker</h3>
           </div>
         </div>
         <nav className="UnderlineNav d-flex flex-justify-center">
